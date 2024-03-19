@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rolex Submariner",
+    "id": "001",
+    "price": 100009999
+  },
+  {
+    "name": "Omega Speedmaster",
+    "id": "002",
+    "price": 5000
+  },
+  {
+    "name": "Tag Heuer Carrera",
+    "id": "003",
+    "price": 3000
+  }
+]
